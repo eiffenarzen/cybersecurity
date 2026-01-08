@@ -243,3 +243,17 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 * Setelah latihan, praktikkan perbaikan pada `secure_login.php` dan migrasikan password ke hash.
 
 ---
+
+# 11) Hasil Asesment
+
+* Login user berhasil
+  <img width="763" height="428" alt="image" src="https://github.com/user-attachments/assets/9d07b99f-9315-463b-a5ef-79f3af6b0ec6" />
+
+* Login user gagal
+  <img width="764" height="427" alt="image" src="https://github.com/user-attachments/assets/379b3840-7422-4840-9600-07eda2afba28" />
+
+* Login ' or '1'='1 berhasil
+  <img width="762" height="427" alt="image" src="https://github.com/user-attachments/assets/4c367283-4c9d-4860-93dc-2daf61ebe392" />
+
+* Login ' or '1'='1 gagagl
+  <img width="763" height="425" alt="image" src="https://github.com/user-attachments/assets/9f760ca1-58c4-4b4c-9711-eea4de52a160" />
