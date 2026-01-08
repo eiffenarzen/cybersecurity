@@ -255,5 +255,5 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 * Login ' or '1'='1 berhasil
   <img width="762" height="427" alt="image" src="https://github.com/user-attachments/assets/4c367283-4c9d-4860-93dc-2daf61ebe392" />
 
-* Login ' or '1'='1 gagagl
+* Login ' or '1'='1 gagal
   <img width="763" height="425" alt="image" src="https://github.com/user-attachments/assets/9f760ca1-58c4-4b4c-9711-eea4de52a160" />
