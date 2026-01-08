@@ -257,3 +257,15 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 
 * Login ' or '1'='1 gagal
   <img width="763" height="425" alt="image" src="https://github.com/user-attachments/assets/9f760ca1-58c4-4b4c-9711-eea4de52a160" />
+
+  ---
+
+# 12) Scan Report
+
+* Hosted Scan
+[Hosted-scan.pdf](https://github.com/user-attachments/files/24491242/Hosted-scan.pdf)
+
+* OWASP ZAP Scan Report
+[OWASP ZAP Scan Report - EIFFEN ARJEN.pdf](https://github.com/user-attachments/files/24491238/OWASP.ZAP.Scan.Report.-.EIFFEN.ARJEN.pdf)
+
+  ---
